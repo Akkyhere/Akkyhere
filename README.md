@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Sharma (Akkyhere)</h1>
-<h3 align="center">Android Developer | ROM Builder | Open Source Enthusiast</h3>
+<h3 align="center">Marine Engineer by profession, ROM builder by passion ⚓💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akkyhere&color=brightgreen" alt="Profile Views"/>
@@ -7,22 +7,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Akkyhere&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkyhere&theme=tokyonight" />
-</p>
-
----
-
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastboot-000000?style=flat-square&logo=fastboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADB-0A6EBD?style=flat-square&logo=android&logoColor=white" />
-</p>
+</div>
 
 ---
 
