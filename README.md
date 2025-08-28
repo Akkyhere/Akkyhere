@@ -28,15 +28,15 @@
 
 ### 💻 Latest SourceForge Build
 [![SourceForge](https://img.shields.io/badge/SourceForge-Latest_Build-blue?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/akky-builds/files/)  
-**Version:** `RISINGOS-Latest.zip`  
-**Uploaded:** `26 August 2025`  
+**Version:** `PLACEHOLDER_BUILD`  
+**Uploaded:** `PLACEHOLDER_DATE`  
 
 ---
 
 ### 🔥 Recent XDA Post
 [![XDA](https://img.shields.io/badge/XDA-My_Work-orange?style=for-the-badge&logo=xda-developers)](https://xdaforums.com/t/my-works.3235465/)  
 **Thread:** “My Works and Builds”  
-**Replies:** `50+`  
+**Replies:** `PLACEHOLDER_XDA_REPLIES`  
 
 ---
 
