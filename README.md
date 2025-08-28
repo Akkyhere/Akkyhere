@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Akkyhere&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkyhere&theme=tokyonight" />
 </div>
@@ -29,11 +29,14 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/akkyhere"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akshay-sharma-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-</p>
+  <div align="center">
+  <a href="https://t.me/akky_sharma" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-00bfbf?style=for-the-badge&logo=Telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Akkyhere" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
