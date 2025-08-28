@@ -9,9 +9,10 @@
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Akkyhere&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkyhere&theme=tokyonight" />
 </div>
-
+<div align="right" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkyhere&theme=tokyonight" />
+  </div>
 ---
 
 ### 💻 Latest SourceForge Build
