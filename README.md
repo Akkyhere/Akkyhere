@@ -6,13 +6,13 @@
 </p>
 
 ---
-<div align="center">
+
 ### 📦 My Latest builds 
 
 | 💻 Latest SourceForge Build | 🔥 Recent XDA Post |
 |-----------------------------|--------------------|
 | [![SourceForge](https://img.shields.io/badge/SourceForge-LATEST_BUILD-orange?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/akky-builds/files/) <br> **Version:** `EvolutionX_16.0_rhodep-20250901` <br> **Uploaded:** `Sept 1, 2025` | [![XDA](https://img.shields.io/badge/XDA-Forum-blue?style=for-the-badge&logo=xda-developers)](https://xdaforums.com/t/my-works.3235465/) <br> **Thread:** “My Works and Builds” <br> **Replies:** `120+` |
-</div>
+
 
 ---
 
@@ -22,8 +22,9 @@
 </div>
 
 ---
-<div align="center">
 ### 🔗 Connect with Me
+
+<div align="center">
   <a href="https://t.me/akky_sharma" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00bfbf?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
