@@ -35,7 +35,7 @@
 
 ---
 
-### 🚀 Fun GIF
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4ef7f36-bc73-4e87-a545-5178c1f01954/dgrt8cv-dfc2ad01-2a3a-4d7d-8d58-8b6bdb76d2a1.gif" width="800">
 </p>
+
