@@ -11,7 +11,7 @@
 
 | 💻 Latest SourceForge Build | 🔥 Recent XDA Post |
 |-----------------------------|--------------------|
-| [![SourceForge](https://img.shields.io/badge/SourceForge-LATEST_BUILD-orange?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/akky-builds/files/) <br> **Version:** `EvolutionX_16.0_rhodep-20250901` <br> **Uploaded:** `Sept 1, 2025` | [![XDA](https://img.shields.io/badge/XDA-Forum-blue?style=for-the-badge&logo=xda-developers)](https://xdaforums.com/t/my-works.3235465/) <br> **Thread:** “My Works and Builds” <br> **Replies:** `120+` |
+| [![SourceForge](https://img.shields.io/badge/SourceForge-LATEST_BUILD-orange?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/akky-builds/files/) <br> **Version:** `Project_Infinity-X-3.2-rhodep-20250903` <br> **Uploaded:** `Sept 3, 2025` | [![XDA](https://img.shields.io/badge/XDA-Forum-blue?style=for-the-badge&logo=xda-developers)](https://xdaforums.com/t/my-works.3235465/) <br> **Thread:** “My Works and Builds” <br> **Replies:** `120+` |
 
 
 ---
